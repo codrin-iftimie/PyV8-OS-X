@@ -15,7 +15,7 @@ setup(
     description = "Taken from http://www.dcl.hpi.uni-potsdam.de/home/loewis/pyv8/",
     long_description = open("README.md").read(),
     license = "",
-    url = "https://github.com/brokenseal/PyV8-OS-X",
+    url = "https://github.com/codrin/PyV8-OS-X",
     packages=find_packages(),
     zip_safe = False,
     package_data = {
